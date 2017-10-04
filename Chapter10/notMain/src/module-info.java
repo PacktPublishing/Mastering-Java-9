@@ -1,0 +1,4 @@
+module notMain {
+    requires mylibrary;
+
+}

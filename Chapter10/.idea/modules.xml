@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compiletime/compiletime.iml" filepath="$PROJECT_DIR$/compiletime/compiletime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduledemo.iml" filepath="$PROJECT_DIR$/moduledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notMain/notMain.iml" filepath="$PROJECT_DIR$/notMain/notMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackwalker/stackwalker.iml" filepath="$PROJECT_DIR$/stackwalker/stackwalker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdpartylibrary/thirdpartylibrary.iml" filepath="$PROJECT_DIR$/thirdpartylibrary/thirdpartylibrary.iml" />
+    </modules>
+  </component>
+</project>
