@@ -1,38 +1,41 @@
-# Haskell Cookbook
-This is the code repository for [Haskell Cookbook](https://www.packtpub.com/application-development/haskell-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786461353), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Mastering Java 9
+This is the code repository for [Mastering Java 9](https://www.packtpub.com/application-development/mastering-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786468734), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Haskell is a purely functional language that has the great ability to develop large and difficult, but easily maintainable, software.
+Java 9 and its new features add to the richness of the language, one of the languages most used by developers to build robust software applications. Java 9 comes with a special emphasis on modularity with its integration with Jigsaw. This would be your one-stop guide to mastering the language.
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-All the code files are present in their respective code folders.
+
 
 The code will look like the following:
 ```
-reverse :: [a] -> [a]
-reverse xs = reverse' xs []
-where
-  reverse' :: [a] -> [a] -> [a]
-  reverse' [] rs = rs
-  reverse' (x:xs) rs = reverse' xs (x:rs)
+public synchronized void protectedMethod()
+{
+. . .
+}
 ```
 
-You will need a fairly recent operating system, such as Windows, Linux, or Mac
-OS.
+To work with this text, you will need at least a basic knowledge of the Java programming
+language.
 
-You should set up the stack tool from https://www.haskellstack.org/. Use the
-Stack setup to download GHC (Haskell Compiler) on your machine. Stack is an
-extremely useful tool to work with different versions of GHC and packages.
+You will also need the following software components:
 
-You will need a good editor. Vi and Emacs have very good support for Haskell.
-Eclipse and Sublime also have support for Haskell.
+Java SE Development Kit 9 (JDK): http:/​/​www.​oracle.​com/​technetwork/​java/​javase/​downloads/​
+
+An Integrated Development Environment (IDE) for coding. Here are suggestions:
+
+* Eclipse: https:/​/​www.​eclipse.​org
+
+* IntelliJ: https:/​/​www.​jetbrains.​com/​idea/​
+
+* NetBeans: https:/​/​netbeans.​org
 
 ## Related Products
-* [Haskell Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/haskell-data-analysis-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783286331)
+* [Mastering Concurrency Programming with Java 9 - Second Edition](https://www.packtpub.com/application-development/mastering-concurrency-programming-java-9-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785887949)
 
-* [Mastering Haskell Programming [Video]](https://www.packtpub.com/application-development/mastering-haskell-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781786465016)
+* [Advanced Data Structures and Algorithms in Java 9 [Video]](https://www.packtpub.com/application-development/advanced-data-structures-and-algorithms-java-9-video?utm_source=github&utm_medium=repository&utm_campaign=9781788624213)
 
-* [Building an Application with Functional Haskell [Video]](https://www.packtpub.com/application-development/building-application-functional-haskell-video?utm_source=github&utm_medium=repository&utm_campaign=9781787285088)
+* [Writing High Performance Java Application in Java 9 [Video]](https://www.packtpub.com/application-development/writing-high-performance-java-application-java-9-video?utm_source=github&utm_medium=repository&utm_campaign=9781788474993)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
