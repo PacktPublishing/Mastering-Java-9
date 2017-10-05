@@ -3,7 +3,7 @@ This is the code repository for [Mastering Java 9](https://www.packtpub.com/appl
 ## About the Book
 Java 9 and its new features add to the richness of the language, one of the languages most used by developers to build robust software applications. Java 9 comes with a special emphasis on modularity with its integration with Jigsaw. This would be your one-stop guide to mastering the language.
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter05.
 
 
 
@@ -20,15 +20,11 @@ language.
 
 You will also need the following software components:
 
-Java SE Development Kit 9 (JDK): http:/​/​www.​oracle.​com/​technetwork/​java/​javase/​downloads/​
-
-An Integrated Development Environment (IDE) for coding. Here are suggestions:
-
-* Eclipse: https:/​/​www.​eclipse.​org
-
-* IntelliJ: https:/​/​www.​jetbrains.​com/​idea/​
-
-* NetBeans: https:/​/​netbeans.​org
+* Java SE Development Kit 9 (JDK): http://www.oracle.com/technetwork/java/javase/downloads/
+* An Integrated Development Environment (IDE) for coding. Here are suggestions:
+* Eclipse: https://www.eclipse.org
+* IntelliJ: https://www.jetbrains.com/idea/
+* NetBeans: https://netbeans.org
 
 ## Related Products
 * [Mastering Concurrency Programming with Java 9 - Second Edition](https://www.packtpub.com/application-development/mastering-concurrency-programming-java-9-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785887949)
