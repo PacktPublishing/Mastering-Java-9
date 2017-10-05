@@ -20,8 +20,7 @@ language.
 
 You will also need the following software components:
 
-* Java SE Development Kit 9 (JDK):
-    * http://www.oracle.com/technetwork/java/javase/downloads/
+* Java SE Development Kit 9 (JDK): http://www.oracle.com/technetwork/java/javase/downloads/
 * An Integrated Development Environment (IDE) for coding. Here are suggestions:
     * Eclipse: https://www.eclipse.org
     * IntelliJ: https://www.jetbrains.com/idea/
